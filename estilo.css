@@ -275,3 +275,8 @@ footer{
         margin-left: -300%;
     }
 }
+
+/*AHORRO*/
+.imagen:hover{
+    filter: opacity(.5); /*Permite ponerle filtro de transparencia a la imagen*/ 
+}
