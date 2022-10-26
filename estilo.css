@@ -256,6 +256,7 @@ footer {
   height: 505px;
 }
 @keyframes cambio {
+<<<<<<< HEAD
   0% {
     margin-left: 0;
   }
@@ -281,3 +282,35 @@ footer {
     margin-left: -300%;
   }
 }
+=======
+    0% {
+        margin-left: 0;
+    }
+    20% {
+        margin-left: 0;
+    }
+    25% {
+        margin-left: -100%;
+    }
+    45% {
+        margin-left: -100%;
+    }
+    50% {
+        margin-left: -200%;
+    }
+    70% {
+        margin-left: -200%;
+    }
+    75% {
+        margin-left: -300%;
+    }
+    100% {
+        margin-left: -300%;
+    }
+}
+
+/*AHORRO*/
+.imagen:hover{
+    filter: opacity(.5); /*Permite ponerle filtro de transparencia a la imagen*/ 
+}
+>>>>>>> 0d663c76edff8ef8a98fff38b032e852d8709412
