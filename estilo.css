@@ -281,7 +281,11 @@ footer {
     margin-left: -300%;
   }
 }
-
+/*TAREJTAS*/
+.fondoTarjeta {
+  width: 100%;
+  height: auto;
+}
 /*AHORRO*/
 .imagen:hover {
   filter: opacity(0.5); /*Permite ponerle filtro de transparencia a la imagen*/
